@@ -936,6 +936,7 @@ file server's public key
 198
 00:09:04,330 --> 00:09:05,190
 from somewhere.
+dari suatu tempat.
 
 199
 00:09:05,190 --> 00:09:07,510
